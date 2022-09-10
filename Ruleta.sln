@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruleta", "Ruleta\Ruleta.csproj", "{4EC01273-5C36-4F89-ABC0-558ED2B35B72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EC01273-5C36-4F89-ABC0-558ED2B35B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC01273-5C36-4F89-ABC0-558ED2B35B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC01273-5C36-4F89-ABC0-558ED2B35B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC01273-5C36-4F89-ABC0-558ED2B35B72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41BF0741-0C3D-4CCD-AD4A-367FD7459773}
+	EndGlobalSection
+EndGlobal
